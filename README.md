@@ -3,4 +3,4 @@
 
 - Hello World [source](hello_world)
 - Hello World Minimalista [source](hello_world_minimalista)
-- API web [source](web_api)
+- API web [source](web_api) [api documentada (Apenas localhost)](https://localhost:5001/swagger/index.html)
