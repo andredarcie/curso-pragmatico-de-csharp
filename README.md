@@ -1,4 +1,4 @@
 # Curso Pragmatico de Csharp
-🛠️ Ferramentas: [.NET](https://dotnet.microsoft.com/download) - VSCODE - GIT - GITHUB DESKTOP
+🛠️ Ferramentas: [.NET](https://dotnet.microsoft.com/download) - [VSCODE](https://code.visualstudio.com/) - [GIT](https://git-scm.com/) - [GITHUB DESKTOP](https://desktop.github.com/)
 
 - Hello World [source](hello_world)
