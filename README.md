@@ -7,6 +7,7 @@
 - Fluxo Git e Github
 - Hello World [source](hello_world)
 - Hello World Minimalista [source](hello_world_minimalista)
+- [Tarefa 1](tarefas/tarefa_1.md) - Criar um repositório básico de webapi
 
 ## Parte 2
 
