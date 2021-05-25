@@ -20,6 +20,7 @@
 ## Parte 3
 
 - Visão geral sobre ORMs
+- [Material de apoio](material_apoio/material_apoio_parte_3.md)
 - CRUD com EF (Cadastro diretores e filmes)
 - Linq (To SQL)
 
