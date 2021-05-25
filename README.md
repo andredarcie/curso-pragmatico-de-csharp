@@ -3,7 +3,7 @@
 
 ## Parte 1 
 
-- Visão geral sobre .NET
+- Visão geral sobre .NET (Timeline, Ecossistema)
 - Fluxo Git e Github
 - Hello World [source](hello_world)
 - Hello World Minimalista [source](hello_world_minimalista)
