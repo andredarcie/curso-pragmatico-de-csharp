@@ -47,3 +47,6 @@
 - SOLID
 - YAGNI, KISS, DRY
 - Gang of Four design patterns (Creational, Structural e Behavioral)
+
+## Projetos dos participantes
+- https://github.com/Welin7/Net5-Api
