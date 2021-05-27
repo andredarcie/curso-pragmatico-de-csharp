@@ -67,6 +67,12 @@ namespace web_api.Controllers
         {
             try
             {
+                var director = await _context.Directors.FirstOrDefaultAsync(director => director.Id == movie.DirectorId);
+
+                if (director == null) {
+                    return NotFound("Director not found.");
+                }
+
                 _context.Movies.Add(movie);
                 await _context.SaveChangesAsync();
 
