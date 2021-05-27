@@ -7,22 +7,23 @@
 - Fluxo Git e Github
 - Hello World [source](hello_world)
 - Hello World Minimalista [source](hello_world_minimalista)
-- [Tarefa 1](tarefas/tarefa_1.md) - Criar um repositório básico de webapi
+- 🏠 [Tarefa 1](tarefas/tarefa_1.md) - Criar um repositório básico de webapi
 
 ## Parte 2
 
 - Visão geral sobre C#
 - Visão geral sobre OOP
 - Entendendo HTTP
-- API web [source](web_api) [api documentada (Apenas localhost)](https://localhost:5001/swagger/index.html)
+- API web
 - RESTful API
+- 📝 [TODO-list 1](todo_lists/todo_list_1.md)
 
 ## Parte 3
 
 - Visão geral sobre ORMs
-- [Material de apoio](material_apoio/material_apoio_parte_3.md)
 - CRUD com EF (Cadastro diretores e filmes)
 - Linq (To SQL)
+- 📝 [TODO-list 2](todo_lists/todo_list_2.md)
 
 ## Parte 4
 
