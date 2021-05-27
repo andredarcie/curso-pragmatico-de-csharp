@@ -1,6 +1,8 @@
 # Curso Pragmatico de Csharp
 🛠️ Ferramentas: [.NET](https://dotnet.microsoft.com/download) - [VSCODE](https://code.visualstudio.com/) - [GIT](https://git-scm.com/) - [GITHUB DESKTOP](https://desktop.github.com/)
 
+Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5-webapi)
+
 ## Parte 1 
 
 - Visão geral sobre .NET (Timeline, Ecossistema)
