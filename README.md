@@ -19,6 +19,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 - API web
 - RESTful API
 - 📝 [TODO-list 1](todo_lists/todo_list_1.md)
+- 🏠 [Tarefa 2](tarefas/tarefa_2.md) - Criar o README
 
 ## Parte 3
 
@@ -53,3 +54,5 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 
 ## Projetos dos participantes
 - https://github.com/Welin7/Net5-Api
+- https://github.com/crisslemoss/curso_csharp/tree/main/Tarefa_01
+- https://github.com/Gabrielgsn30/Tarefa1
