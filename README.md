@@ -53,6 +53,16 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 - Gang of Four design patterns (Creational, Structural e Behavioral)
 
 ## Projetos dos participantes
-- https://github.com/Welin7/Net5-Api
-- https://github.com/crisslemoss/curso_csharp/tree/main/Tarefa_01
-- https://github.com/Gabrielgsn30/Tarefa1
+- Alef - TODO
+- Alexandre - TODO
+- Cristiane - https://github.com/crisslemoss/curso_csharp
+- Bruschi - https://github.com/gabrielbruschi/Curso-CSharp
+- Nascimento - https://github.com/Gabrielgsn30/Tarefa1
+- Giovani - https://github.com/GeovaniDarcie/webapicurso
+- Guilherme - https://github.com/guibhere/Projeto-C
+- Jessica - https://github.com/TheJessicaBohn/ProjetoCSharp
+- José - https://github.com/josealexandrebmonteiro/webapi
+- Maike - https://github.com/maikemmendes/webapi
+- Vitória - https://github.com/vitoriaProfessora/curso-pragmatico-csharp
+- Welington - https://github.com/Welin7/Net5-Api
+- Rafael - https://github.com/RafaelRCastro/Curso-CSharp
