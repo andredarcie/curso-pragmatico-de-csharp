@@ -9,20 +9,20 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 - Fluxo Git e Github
 - Hello World [source](hello_world)
 - Hello World Minimalista [source](hello_world_minimalista)
+- Como criar um projeto simples de webapi
 - 🏠 [Tarefa 1](tarefas/tarefa_1.md) - Criar um repositório básico de webapi
 
 ## Parte 2
 
 - Visão geral sobre C#
 - Visão geral sobre OOP
-- Entendendo HTTP
-- API web
-- RESTful API
+- Projeto de exemplo
 - 📝 [TODO-list 1](todo_lists/todo_list_1.md)
 - 🏠 [Tarefa 2](tarefas/tarefa_2.md) - Criar o README
 
 ## Parte 3
 
+- Entendendo HTTP
 - Visão geral sobre ORMs
 - CRUD com EF (Cadastro diretores e filmes)
 - Linq (To SQL)
