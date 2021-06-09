@@ -27,6 +27,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 - CRUD com EF (Cadastro diretores e filmes)
 - Linq (To SQL)
 - 📝 [TODO-list 2](todo_lists/todo_list_2.md)
+- 🏠 [Tarefa 3](tarefas/tarefa_3.md)
 
 ## Parte 4
 
