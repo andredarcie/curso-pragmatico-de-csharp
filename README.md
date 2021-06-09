@@ -23,14 +23,20 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 ## Parte 3
 
 - Entendendo HTTP
-- Visão geral sobre ORMs
-- CRUD com EF (Cadastro diretores e filmes)
-- Linq (To SQL)
+- Cadastro de diretores no banco de dados
 - 📝 [TODO-list 2](todo_lists/todo_list_2.md)
-- 🏠 [Tarefa 3](tarefas/tarefa_3.md)
+- 🏠 [Tarefa 3](tarefas/tarefa_3.md) - Criar sua primeira API
 
 ## Parte 4
 
+- API para cadastro de filmes
+- DTOs - Data transfer object
+- Tratamento de possiveis erros
+
+## Parte 5
+
+- Visão geral sobre ORMs
+- Linq (To SQL)
 - Repository Pattern 
 - AutoMapper, DTOs 
 - Dependence Injection 
@@ -38,14 +44,14 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 - JWT
 - Debbugar VSCode
 
-## Parte 5
+## Parte 6
 
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
 - Multi-Tenancy
 
-## Parte 6
+## Parte 7
 
 - Clean Code
 - DDD
@@ -54,8 +60,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 - Gang of Four design patterns (Creational, Structural e Behavioral)
 
 ## Projetos dos participantes
-- Alef - TODO
-- Alexandre - TODO
+- Alef - https://github.com/AlefaTeixeira/WebAPI
 - Cristiane - https://github.com/crisslemoss/curso_csharp
 - Bruschi - https://github.com/gabrielbruschi/Curso-CSharp
 - Nascimento - https://github.com/Gabrielgsn30/Tarefa1
