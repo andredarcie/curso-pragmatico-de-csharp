@@ -1,7 +1,8 @@
-# Curso Pragmatico de Csharp
+# Curso Pragmático de Csharp
+
 🛠️ Ferramentas: [.NET](https://dotnet.microsoft.com/download) - [VSCODE](https://code.visualstudio.com/) - [GIT](https://git-scm.com/) - [GITHUB DESKTOP](https://desktop.github.com/)
 
-Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5-webapi)
+Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work-in-progress-web-api)
 
 ## Parte 1 
 
@@ -32,6 +33,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/net5
 - API para cadastro de filmes
 - DTOs - Data transfer object
 - Tratamento de possiveis erros
+- 🏠 [Tarefa 4](tarefas/tarefa_4.md) - Cadastro de filmes
 
 ## Parte 5
 
