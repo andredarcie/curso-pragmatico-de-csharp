@@ -30,13 +30,23 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 
 ## Parte 4
 
-- API para cadastro de filmes
-- DTOs - Data transfer object
-- Tratamento de possiveis erros
+- Visão geral do projeto
+- Entendendo cada classe
 - 🏠 [Tarefa 4](tarefas/tarefa_4.md) - Cadastro de filmes
 
 ## Parte 5
 
+- API para cadastro de filmes
+- DTOs - Data transfer objects
+- 🏠 [Tarefa 5](tarefas/tarefa_5.md) - Criação dos DTOs restantes
+
+
+## Parte 6
+
+- Validações
+- Tratamento de possiveis erros
+
+## Parte 6
 - Visão geral sobre ORMs
 - Linq (To SQL)
 - Repository Pattern 
@@ -46,14 +56,14 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - JWT
 - Debbugar VSCode
 
-## Parte 6
+## Parte 7
 
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
 - Multi-Tenancy
 
-## Parte 7
+## Parte 8
 
 - Clean Code
 - DDD
