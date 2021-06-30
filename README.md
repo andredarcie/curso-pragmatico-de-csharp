@@ -45,6 +45,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 
 - Validações
 - Tratamento de possiveis erros
+- 🏠 [Tarefa 6](tarefas/tarefa_6.md) - Mais validações
 
 ## Parte 6
 - Visão geral sobre ORMs
