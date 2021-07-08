@@ -52,7 +52,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - Criando um middleware
 - 🏠 [Tarefa 7](tarefas/tarefa_7.md) - Documentação da API
 
-## Parte 6
+## Parte 8
 - Visão geral sobre ORMs
 - Linq (To SQL)
 - Repository Pattern 
@@ -62,14 +62,14 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - JWT
 - Debbugar VSCode
 
-## Parte 7
+## Parte 9
 
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
 - Multi-Tenancy
 
-## Parte 8
+## Parte 10
 
 - Clean Code
 - DDD
