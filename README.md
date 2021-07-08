@@ -47,6 +47,11 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - Tratamento de possiveis erros
 - 🏠 [Tarefa 6](tarefas/tarefa_6.md) - Mais validações
 
+## Parte 7
+
+- Criando um middleware
+- 🏠 [Tarefa 7](tarefas/tarefa_7.md) - Documentação da API
+
 ## Parte 6
 - Visão geral sobre ORMs
 - Linq (To SQL)
