@@ -9,8 +9,29 @@ No arquivo '.csproj' dentro da tag: 'PropertyGroup', adicione:
     <NoWarn>$(NoWarn);1591</NoWarn>
 ```
 
-Agora nos arquivos DiretorController.cs e FilmeController.cs adicione os comentarios em cada método.
-Exemplo de comentario no metodo Post().
+E no arquivo Startup.cs, nessa parte do código:
+
+```csharp
+services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "hello_2", Version = "v1" });
+    
+    // Adicione aqui
+});
+services.AddDbContext<ApplicationDbContext>(options => options.UseSqlite("Data Source=myapp.db"));
+```
+
+Adicione o código para ler e gerar a documentação
+```csharp
+// Set the comments path for the Swagger JSON and UI.
+var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+c.IncludeXmlComments(xmlPath);
+```
+
+- Agora nos arquivos DiretorController.cs e FilmeController.cs adicione os comentarios em cada método.
+
+Exemplo de comentario no metodo Post():
 ```csharp
     /// <summary>
     /// Cria um diretor
