@@ -23,6 +23,12 @@ services.AddDbContext<ApplicationDbContext>(options => options.UseSqlite("Data S
 
 Adicione o código para ler e gerar a documentação
 ```csharp
+using System;
+using System.IO;
+using System.Reflection;
+```
+
+```csharp
 // Set the comments path for the Swagger JSON and UI.
 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
