@@ -53,6 +53,11 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - 🏠 [Tarefa 7](tarefas/tarefa_7.md) - Documentação da API
 
 ## Parte 8
+- Documentação da API
+- Validação com Fluent Validator
+- 🏠 [Tarefa 8](tarefas/tarefa_8.md) - Working in progress
+
+## Parte 9
 - Visão geral sobre ORMs
 - Linq (To SQL)
 - Repository Pattern 
@@ -62,14 +67,14 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - JWT
 - Debbugar VSCode
 
-## Parte 9
+## Parte 10
 
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
 - Multi-Tenancy
 
-## Parte 10
+## Parte 11
 
 - Clean Code
 - DDD
