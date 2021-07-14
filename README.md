@@ -55,7 +55,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 ## Parte 8
 - Documentação da API
 - Validação com Fluent Validator
-- 🏠 [Tarefa 8](tarefas/tarefa_8.md) - Working in progress
+- 🏠 [Tarefa 8](tarefas/tarefa_8.md) - Separando a lógica de negócio
 
 ## Parte 9
 - Visão geral sobre ORMs
@@ -63,7 +63,6 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - Repository Pattern 
 - AutoMapper, DTOs 
 - Dependence Injection 
-- Fluent Validator 
 - JWT
 - Debbugar VSCode
 
