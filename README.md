@@ -58,22 +58,26 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - 🏠 [Tarefa 8](tarefas/tarefa_8.md) - Separando a lógica de negócio
 
 ## Parte 9
+- Dependence Injection e Princípio de inversão de dependência (SOLID)
+- Criação de Services
+- Paginação e Extension Methods
+- 🏠 [Tarefa 9](tarefas/tarefa_9.md) - Working in progress
+
+## Parte 10
 - Visão geral sobre ORMs
 - Linq (To SQL)
-- Repository Pattern 
 - AutoMapper, DTOs 
-- Dependence Injection 
 - JWT
 - Debbugar VSCode
 
-## Parte 10
+## Parte 11
 
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
 - Multi-Tenancy
 
-## Parte 11
+## Parte 12
 
 - Clean Code
 - DDD
