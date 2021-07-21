@@ -61,7 +61,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - Dependence Injection e Princípio de inversão de dependência (SOLID)
 - Criação de Services
 - Paginação e Extension Methods
-- 🏠 [Tarefa 9](tarefas/tarefa_9.md) - Working in progress
+- 🏠 [Tarefa 9](tarefas/tarefa_9.md) - Adicionando paginação na API
 
 ## Parte 10
 - Visão geral sobre ORMs
@@ -86,6 +86,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - Gang of Four design patterns (Creational, Structural e Behavioral)
 
 ## Projetos dos participantes
+- Alexandre - https://github.com/alexandrepeluchi/curso-net5-api
 - Alef - https://github.com/AlefaTeixeira/WebAPI
 - Cristiane - https://github.com/crisslemoss/curso_csharp
 - Bruschi - https://github.com/gabrielbruschi/Curso-CSharp
