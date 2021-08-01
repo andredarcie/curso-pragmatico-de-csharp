@@ -66,15 +66,16 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 ## Parte 10
 - Visão geral sobre ORMs
 - Linq (To SQL)
-- 🏠 [Tarefa 10](tarefas/tarefa_10.md) - Working in progress
 
 ## Parte 11
-- AutoMapper, DTOs 
-- JWT
-- Debbugar VSCode
+- JWT - JSON Web Token
+- Autorização
+
 
 ## Parte 12
 
+- Debbugar VSCode
+- AutoMapper, DTOs 
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
