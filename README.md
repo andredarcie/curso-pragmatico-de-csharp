@@ -71,8 +71,14 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - JWT - JSON Web Token
 - Autorização
 
-
 ## Parte 12
+- Testes automatizados
+- Diferença entre testes unitarios de integração e de sistema
+- Criando um projeto básico de testes unitarios
+- 📝 [TODO-list 12](todo_lists/todo_list_12.md)
+- 🏠 [Tarefa 12](tarefas/tarefa_12.md) - Working in progress
+
+## Parte 13
 
 - Debbugar VSCode
 - AutoMapper, DTOs 
@@ -81,7 +87,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - N-Tier
 - Multi-Tenancy
 
-## Parte 13
+## Parte 14
 
 - Clean Code
 - DDD
