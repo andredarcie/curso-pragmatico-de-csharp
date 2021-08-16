@@ -79,15 +79,18 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - 🏠 [Tarefa 12](tarefas/tarefa_12.md) - Working in progress
 
 ## Parte 13
+- Comparação entre ferramentas de teste
+- Criando testes para regras de negocio
+- Testes com fluent validation
 
-- Debbugar VSCode
-- AutoMapper, DTOs 
+## Parte 14
+
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
 - Multi-Tenancy
 
-## Parte 14
+## Parte 15
 
 - Clean Code
 - DDD
@@ -97,15 +100,12 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 
 ## Projetos dos participantes
 - Alexandre - https://github.com/alexandrepeluchi/curso-net5-api
-- Alef - https://github.com/AlefaTeixeira/WebAPI
 - Cristiane - https://github.com/crisslemoss/curso_csharp
-- Bruschi - https://github.com/gabrielbruschi/Curso-CSharp
 - Nascimento - https://github.com/Gabrielgsn30/Tarefa1
 - Giovani - https://github.com/GeovaniDarcie/webapicurso
 - Guilherme - https://github.com/guibhere/Projeto-C
 - Jessica - https://github.com/TheJessicaBohn/ProjetoCSharp
 - José - https://github.com/josealexandrebmonteiro/webapi
-- Maike - https://github.com/maikemmendes/webapi
 - Vitória - https://github.com/vitoriaProfessora/curso-pragmatico-csharp
 - Welington - https://github.com/Welin7/Net5-Api
 - Rafael - https://github.com/RafaelRCastro/Curso-CSharp
