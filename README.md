@@ -76,12 +76,13 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - Diferença entre testes unitarios de integração e de sistema
 - Criando um projeto básico de testes unitarios
 - 📝 [TODO-list 12](todo_lists/todo_list_12.md)
-- 🏠 [Tarefa 12](tarefas/tarefa_12.md) - Working in progress
+
 
 ## Parte 13
 - Comparação entre ferramentas de teste
 - Criando testes para regras de negocio
 - Testes com fluent validation
+- 🏠 [Tarefa 13](tarefas/tarefa_13.md) - Adicionar testes unitários para Filmes
 
 ## Parte 14
 
