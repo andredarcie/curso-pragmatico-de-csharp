@@ -53,25 +53,30 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - 🏠 [Tarefa 7](tarefas/tarefa_7.md) - Documentação da API
 
 ## Parte 8
+
 - Documentação da API
 - Validação com Fluent Validator
 - 🏠 [Tarefa 8](tarefas/tarefa_8.md) - Separando a lógica de negócio
 
 ## Parte 9
+
 - Dependence Injection e Princípio de inversão de dependência (SOLID)
 - Criação de Services
 - Paginação e Extension Methods
 - 🏠 [Tarefa 9](tarefas/tarefa_9.md) - Adicionando paginação na API
 
 ## Parte 10
+
 - Visão geral sobre ORMs
 - Linq (To SQL)
 
 ## Parte 11
+
 - JWT - JSON Web Token
 - Autorização
 
 ## Parte 12
+
 - Testes automatizados
 - Diferença entre testes unitarios de integração e de sistema
 - Criando um projeto básico de testes unitarios
@@ -79,6 +84,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 
 
 ## Parte 13
+
 - Comparação entre ferramentas de teste
 - Criando testes para regras de negocio
 - Testes com fluent validation
@@ -86,18 +92,19 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 
 ## Parte 14
 
+- Docker e containers
+- Configurando banco de dados (PostgresSQL)
+- Gerenciando containers
+- 📝 [TODO-list 14](todo_lists/todo_list_14.md)
+
+## Parte 15
+
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
 - Multi-Tenancy
-
-## Parte 15
-
-- Clean Code
-- DDD
-- SOLID
-- YAGNI, KISS, DRY
-- Gang of Four design patterns (Creational, Structural e Behavioral)
+- Boas práticas como: Clean Code, DDD, SOLID, YAGNI, KISS, DRY e 
+Gang of Four design patterns (Creational, Structural e Behavioral)
 
 ## Projetos dos participantes
 - Alexandre - https://github.com/alexandrepeluchi/curso-net5-api
