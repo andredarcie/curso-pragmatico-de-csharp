@@ -99,6 +99,7 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 
 ## Parte 15
 
+- 📝 [TODO-list 15](todo_lists/todo_list_15.md) - Ajustes finais na validação
 - Visão geral sobre arquitetura 
 - Monolithic vs Microservices
 - N-Tier
