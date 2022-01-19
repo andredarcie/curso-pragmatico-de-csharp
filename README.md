@@ -1,8 +1,13 @@
-# Curso Pragmático de Csharp
+# Curso Pragmático de ASP.NET
 
 🛠️ Ferramentas: [.NET](https://dotnet.microsoft.com/download) - [VSCODE](https://code.visualstudio.com/) - [GIT](https://git-scm.com/) - [GITHUB DESKTOP](https://desktop.github.com/)
 
 Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work-in-progress-web-api)
+
+## Pré-requisitos
+ - Lógica de programação
+ - Programação orientada a objetos (POO)
+ - Fundamentos de desenvolvimento Web
 
 ## Parte 1 
 
@@ -106,15 +111,3 @@ Projeto desenvolvido durante o curso: [repo](https://github.com/andredarcie/work
 - Multi-Tenancy
 - Boas práticas como: Clean Code, DDD, SOLID, YAGNI, KISS, DRY e 
 Gang of Four design patterns (Creational, Structural e Behavioral)
-
-## Projetos dos participantes
-- Alexandre - https://github.com/alexandrepeluchi/curso-net5-api
-- Cristiane - https://github.com/crisslemoss/curso_csharp
-- Nascimento - https://github.com/Gabrielgsn30/Tarefa1
-- Giovani - https://github.com/GeovaniDarcie/webapicurso
-- Guilherme - https://github.com/guibhere/Projeto-C
-- Jessica - https://github.com/TheJessicaBohn/ProjetoCSharp
-- José - https://github.com/josealexandrebmonteiro/webapi
-- Vitória - https://github.com/vitoriaProfessora/curso-pragmatico-csharp
-- Welington - https://github.com/Welin7/Net5-Api
-- Rafael - https://github.com/RafaelRCastro/Curso-CSharp
